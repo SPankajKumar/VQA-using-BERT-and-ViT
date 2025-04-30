@@ -1,5 +1,4 @@
-# VQA-using-BERT-and-ViT
-Visual Question Answering using BERT and Vision Transformer
+
 # Question Answering Using BERT and BLIP
 
 School of Computer Science and Engineering,  
