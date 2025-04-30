@@ -2,10 +2,9 @@
 Visual Question Answering using BERT and Vision Transformer
 # Question Answering Using BERT and BLIP
 
-**Stephen Sathya Doss P #1, Pankaj Kumar S #2**  
 School of Computer Science and Engineering,  
 VIT Chennai Campus, Chennai, India  
-[Stephensathya.dossp2021@vitstudent.ac.in](mailto:Stephensathya.dossp2021@vitstudent.ac.in)
+
 
 ---
 
